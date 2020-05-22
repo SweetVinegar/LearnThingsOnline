@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: 区块链基础知识讲座	</title>
+	<atom:link href="https://learnthings.online/other/2020/02/24/%e5%8c%ba%e5%9d%97%e9%93%be%e5%9f%ba%e7%a1%80%e7%9f%a5%e8%af%86%e8%ae%b2%e5%ba%a7/feed" rel="self" type="application/rss+xml" />
+	<link>https://learnthings.online/other/2020/02/24/%e5%8c%ba%e5%9d%97%e9%93%be%e5%9f%ba%e7%a1%80%e7%9f%a5%e8%af%86%e8%ae%b2%e5%ba%a7</link>
+	<description>Learn Things Online - Learn Blockchain Technology Online</description>
+	<lastBuildDate>Wed, 11 Mar 2020 05:49:08 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.1</generator>
+</channel>
+</rss>
