@@ -12,13 +12,13 @@
 	<atom:link href="https://learnthings.online/category/course/feed" rel="self" type="application/rss+xml" />
 	<link>https://learnthings.online</link>
 	<description>Learn Things Online - Learn Blockchain Technology Online</description>
-	<lastBuildDate>Wed, 20 May 2020 09:53:32 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 27 Jun 2020 14:41:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.4.1</generator>
+	<generator>https://wordpress.org/?v=5.4.2</generator>
 
 <image>
 	<url>https://res.meetugo.com/wp-content/uploads/sites/2/2020/02/25094637/cropped-3-1-32x32.png</url>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>IPFS for Beginners – Interact With IPFS By Javascript</title>
+		<link>https://learnthings.online/course/2020/06/27/ipfs-for-beginners-interact-with-ipfs-by-javascript</link>
+					<comments>https://learnthings.online/course/2020/06/27/ipfs-for-beginners-interact-with-ipfs-by-javascript#respond</comments>
+		
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+		<pubDate>Sat, 27 Jun 2020 14:41:07 +0000</pubDate>
+				<category><![CDATA[Course]]></category>
+		<guid isPermaLink="false">http://learnthings.online/?p=991</guid>
+
+					<description><![CDATA[<p>In this article, we'll learn how to interact with IPFS by javaScript programming language. It's one way to make your own application to interact with IPFS.</p>
+<p>The post <a rel="nofollow" href="https://learnthings.online/course/2020/06/27/ipfs-for-beginners-interact-with-ipfs-by-javascript">IPFS for Beginners – Interact With IPFS By Javascript</a> appeared first on <a rel="nofollow" href="https://learnthings.online">LearnThings.Online</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>https://learnthings.online/course/2020/06/27/ipfs-for-beginners-interact-with-ipfs-by-javascript/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>IPFS for Beginners – Host Your Static Website</title>
 		<link>https://learnthings.online/course/2020/05/20/ipfs-for-beginners-host-your-static-website</link>
 					<comments>https://learnthings.online/course/2020/05/20/ipfs-for-beginners-host-your-static-website#respond</comments>
@@ -106,7 +125,7 @@
 		<item>
 		<title>Interact with Ethereum Blockchain &#8211; Materials to Learn Web3.js</title>
 		<link>https://learnthings.online/course/2020/04/12/interact-with-ethereum-blockchain-materials-to-learn-web3-js</link>
-					<comments>https://learnthings.online/course/2020/04/12/interact-with-ethereum-blockchain-materials-to-learn-web3-js#respond</comments>
+					<comments>https://learnthings.online/course/2020/04/12/interact-with-ethereum-blockchain-materials-to-learn-web3-js#comments</comments>
 		
 		<dc:creator><![CDATA[Admin]]></dc:creator>
 		<pubDate>Mon, 13 Apr 2020 07:18:21 +0000</pubDate>
@@ -118,7 +137,7 @@
 ]]></description>
 		
 					<wfw:commentRss>https://learnthings.online/course/2020/04/12/interact-with-ethereum-blockchain-materials-to-learn-web3-js/feed</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>1</slash:comments>
 		
 		
 			</item>
@@ -137,7 +156,7 @@
 ]]></description>
 		
 					<wfw:commentRss>https://learnthings.online/course/2020/03/31/issue-your-own-token-ethereum-for-beginners/feed</wfw:commentRss>
-			<slash:comments>14</slash:comments>
+			<slash:comments>17</slash:comments>
 		
 		
 			</item>
@@ -164,7 +183,7 @@
 		<item>
 		<title>Ethereum Dapp for Beginners &#8211; Full Stack Hello World Voting Ethereum Dapp Tutorial</title>
 		<link>https://learnthings.online/course/2020/03/15/ethereum-dapp-for-beginners-full-stack-hello-world-voting-ethereum-dapp-tutorial</link>
-					<comments>https://learnthings.online/course/2020/03/15/ethereum-dapp-for-beginners-full-stack-hello-world-voting-ethereum-dapp-tutorial#respond</comments>
+					<comments>https://learnthings.online/course/2020/03/15/ethereum-dapp-for-beginners-full-stack-hello-world-voting-ethereum-dapp-tutorial#comments</comments>
 		
 		<dc:creator><![CDATA[Admin]]></dc:creator>
 		<pubDate>Mon, 16 Mar 2020 03:13:58 +0000</pubDate>
@@ -177,27 +196,7 @@
 ]]></description>
 		
 					<wfw:commentRss>https://learnthings.online/course/2020/03/15/ethereum-dapp-for-beginners-full-stack-hello-world-voting-ethereum-dapp-tutorial/feed</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Introduction to FinTech</title>
-		<link>https://learnthings.online/course/2020/03/06/introduction-to-fintech</link>
-					<comments>https://learnthings.online/course/2020/03/06/introduction-to-fintech#respond</comments>
-		
-		<dc:creator><![CDATA[Admin]]></dc:creator>
-		<pubDate>Sat, 07 Mar 2020 05:48:40 +0000</pubDate>
-				<category><![CDATA[Course]]></category>
-		<guid isPermaLink="false">http://learnthings.online/?p=627</guid>
-
-					<description><![CDATA[<p>The major areas in FinTech, includingMoney and Payment,Digital Finance and Alternative Finance<br />
-Major technological trends, including cryptocurrencies, Blockchain, AI and Big Data</p>
-<p>The post <a rel="nofollow" href="https://learnthings.online/course/2020/03/06/introduction-to-fintech">Introduction to FinTech</a> appeared first on <a rel="nofollow" href="https://learnthings.online">LearnThings.Online</a>.</p>
-]]></description>
-		
-					<wfw:commentRss>https://learnthings.online/course/2020/03/06/introduction-to-fintech/feed</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>2</slash:comments>
 		
 		
 			</item>

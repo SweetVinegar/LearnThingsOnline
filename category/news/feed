@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.4.1</generator>
+	<generator>https://wordpress.org/?v=5.4.2</generator>
 
 <image>
 	<url>https://res.meetugo.com/wp-content/uploads/sites/2/2020/02/25094637/cropped-3-1-32x32.png</url>
@@ -68,7 +68,7 @@
 		<item>
 		<title>Libra Got 3 New Members &#8211; Temasek, Paradigm and Slow Ventures</title>
 		<link>https://learnthings.online/news/2020/05/15/libra-got-3-new-members-temasek-paradigm-and-slow-ventures</link>
-					<comments>https://learnthings.online/news/2020/05/15/libra-got-3-new-members-temasek-paradigm-and-slow-ventures#respond</comments>
+					<comments>https://learnthings.online/news/2020/05/15/libra-got-3-new-members-temasek-paradigm-and-slow-ventures#comments</comments>
 		
 		<dc:creator><![CDATA[Admin]]></dc:creator>
 		<pubDate>Fri, 15 May 2020 14:20:54 +0000</pubDate>
@@ -80,7 +80,7 @@
 ]]></description>
 		
 					<wfw:commentRss>https://learnthings.online/news/2020/05/15/libra-got-3-new-members-temasek-paradigm-and-slow-ventures/feed</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>1</slash:comments>
 		
 		
 			</item>

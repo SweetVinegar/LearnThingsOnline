@@ -11,11 +11,25 @@
 	<atom:link href="https://learnthings.online/course/2020/03/01/blockchain-understanding-its-uses-and-implications-chapter-3-blockchain-problem-solving/feed" rel="self" type="application/rss+xml" />
 	<link>https://learnthings.online/course/2020/03/01/blockchain-understanding-its-uses-and-implications-chapter-3-blockchain-problem-solving</link>
 	<description>Learn Things Online - Learn Blockchain Technology Online</description>
-	<lastBuildDate>Wed, 11 Mar 2020 05:49:07 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 04 Jun 2020 12:54:27 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.4.1</generator>
-</channel>
+	<generator>https://wordpress.org/?v=5.4.2</generator>
+	<item>
+		<title>
+		By: Marta		</title>
+		<link>https://learnthings.online/course/2020/03/01/blockchain-understanding-its-uses-and-implications-chapter-3-blockchain-problem-solving#comment-84</link>
+
+		<dc:creator><![CDATA[Marta]]></dc:creator>
+		<pubDate>Thu, 04 Jun 2020 12:54:27 +0000</pubDate>
+		<guid isPermaLink="false">http://learnthings.online/?p=476#comment-84</guid>
+
+					<description><![CDATA[Thank you for your blog post.Really thank you! Awesome.]]></description>
+			<content:encoded><![CDATA[<p>Thank you for your blog post.Really thank you! Awesome.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
 </rss>
